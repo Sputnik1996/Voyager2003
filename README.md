@@ -31,6 +31,7 @@ Each file in the '/Documentation' directory corresponds to a specific part of th
 - APC Smart-UPS SRT2200XLI
 - ARCTIC Liquid Freezer III Pro 360
 - ASUS ROG CROSSHAIR X870E HERO WIFI
+- ASUS TUF Gaming GeForce RTX™ 5090
 - Corsair HX1500i (2025)
 - Corsair VENGEANCE® RGB 64GB (2x32GB) DDR5 DRAM 6400MT/s CL32 Memory Kit
 - Crucial T700 4TB PCIe Gen5 NVMe M.2 SSD with heatsink
@@ -39,7 +40,6 @@ Each file in the '/Documentation' directory corresponds to a specific part of th
 - Ergotron HX Desk Monitor Arm (HD Pivot)
 - Logitech G502 HERO
 - MSI MPG 322URX
-- NVIDIA® GeForce RTX™ 5090 Founders Edition
 - NZXT H9 Flow (2025)
 - Noctua NF-A12x25 PWM chromax.black.swap 120mm
 - Oddtone GPU Support Bracket
