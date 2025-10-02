@@ -42,6 +42,7 @@ Each file in the '/Documentation' directory corresponds to a specific part of th
 - Logitech G502 HERO
 - MSI MPG 322URX
 - NZXT H9 Flow (2025)
+- Noctua NA-FH1
 - Noctua NF-A12x25 PWM chromax.black.swap 120mm
 - Pulsar Superglide Glass Mousepad XXL
 - Secretlab MAGNUS Pro XL
